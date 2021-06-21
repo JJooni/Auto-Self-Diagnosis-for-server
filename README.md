@@ -43,7 +43,7 @@ $ nohup python3 server.py
 필자는 ubuntu 18.04 환경에서 원활하게 동작하였습니다.
 
 ## 경고 (Warning)
-사용하게되어 받는 모든 책임은 사용자 본인에게 있습니다.<br>
+사용에 대한 모든 책임은 사용자 본인에게 있습니다.<br>
 You are responsible for all responsibility for using it.
 
 ## LISENSE
