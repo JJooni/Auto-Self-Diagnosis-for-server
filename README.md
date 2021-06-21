@@ -30,10 +30,14 @@ ex<br>
 서버의 위치를 기준으로 시간을 측정하므로 현지 시간으로 입력해야 합니다.<br>
 
 3. 
-``` bash
-python3 server.py
+```bash
+$ python3 server.py
 ```
-위 명령어로 실행합니다.
+위 명령어로 실행합니다.<br>
+```bash
+$ nohup python3 server.py
+```
+위 명령어로 백그라운드에서 실행합니다.
 
 ## 기타
 필자는 ubuntu 18.04 환경에서 원활하게 동작하였습니다.
