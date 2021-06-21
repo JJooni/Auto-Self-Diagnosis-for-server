@@ -36,6 +36,7 @@ ex<br>
 $ python3 server.py
 ```
 위 명령어로 실행합니다.<br>
+
 - 
 ```bash
 $ nohup python3 server.py
