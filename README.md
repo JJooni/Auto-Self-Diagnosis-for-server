@@ -40,8 +40,11 @@ $ nohup python3 server.py
 위 명령어로 백그라운드에서 실행합니다.
 
 ## 기타
-필자는 ubuntu 18.04 환경에서 원활하게 동작하였습니다.<br>
-사용하게되어 받는 모든 책임은 사용자 본인에게 있습니다.
+필자는 ubuntu 18.04 환경에서 원활하게 동작하였습니다.
+
+## 경고 (Warning)
+사용하게되어 받는 모든 책임은 사용자 본인에게 있습니다.<br>
+You are responsible for all responsibility for using it.
 
 ## LISENSE
 This project is licensed under the terms of the [MIT license](https://github.com/JJooni/Auto-Self-Diagnosis-for-server/blob/main/LICENSE).<br>
