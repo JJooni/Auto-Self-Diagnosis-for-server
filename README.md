@@ -4,7 +4,7 @@
 개인 사용 목적으로 제작하였기 때문에 추후 업데이트는 **진행하지 않습니다**.
 ## 의존성
 Google-Chrome 91 이상<br>
-Python3
+Python3<br>
 Selenium 3.141.0
 
 ## 설치
