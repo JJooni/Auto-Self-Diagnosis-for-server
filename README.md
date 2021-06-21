@@ -5,6 +5,7 @@
 ## 의존성
 Google-Chrome 91 이상<br>
 Python3
+Selenium 3.141.0
 
 ## 설치
 이 [링크](https://github.com/JJooni/Auto-Self-Diagnosis-for-server/archive/refs/heads/main.zip)를 통해서 설치를 진행할 수 있습니다.<br>
