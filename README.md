@@ -1,5 +1,6 @@
 # Auto-Self-Diagnosis-for-server
-
+이 프로그램은 [SaidBySolo님의 auto-self-diagnosis를 참고하여 제작하였습니다.]('https://github.com/SaidBySolo/auto-self-diagnosis')
+개인 사용 목적으로 제작하였기 때문에 추후 업데이트는 *진행하지 않습니다*.
 ## 의존성
 google-chrome 91 이상<br>
 python3
