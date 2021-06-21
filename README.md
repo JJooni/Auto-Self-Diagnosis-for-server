@@ -30,11 +30,13 @@ ex<br>
 시간은 24시간제를 사용합니다.<br>
 서버의 위치를 기준으로 시간을 측정하므로 현지 시간으로 입력해야 합니다.<br>
 
-3. 
+3.
+- 
 ```bash
 $ python3 server.py
 ```
 위 명령어로 실행합니다.<br>
+-
 ```bash
 $ nohup python3 server.py
 ```
