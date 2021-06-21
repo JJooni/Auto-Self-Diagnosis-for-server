@@ -1,5 +1,5 @@
 # Auto-Self-Diagnosis-for-server
-자동 자가진단 메크로 서버전용
+자동 자가진단 메크로 서버전용<br>
 이 프로그램은 [SaidBySolo님의 auto-self-diagnosis](https://github.com/SaidBySolo/auto-self-diagnosis)를 참고하여 제작하였습니다.<br>
 개인 사용 목적으로 제작하였기 때문에 추후 업데이트는 **진행하지 않습니다**.
 ## 의존성
