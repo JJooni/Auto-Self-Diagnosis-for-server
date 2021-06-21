@@ -2,8 +2,8 @@
 이 프로그램은 [SaidBySolo님의 auto-self-diagnosis](https://github.com/SaidBySolo/auto-self-diagnosis)를 참고하여 제작하였습니다.<br>
 개인 사용 목적으로 제작하였기 때문에 추후 업데이트는 **진행하지 않습니다**.
 ## 의존성
-google-chrome 91 이상<br>
-python3
+Google-Chrome 91 이상<br>
+Python3
 
 ## 설치
 이 ["링크"]를 통해서 설치를 진행할 수 있습니다.<br>
