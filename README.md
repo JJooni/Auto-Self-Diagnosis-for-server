@@ -38,4 +38,4 @@ python3 server.py
 
 ## LISENSE
 This project is licensed under the terms of the [MIT license](https://github.com/JJooni/Auto-Self-Diagnosis-for-server/blob/main/LICENSE).<br>
-The binary files of ChromeDriver are licensed under the [BSD-3-Clause]("https://").<br>
+The binary files of ChromeDriver are licensed under the [BSD-3-Clause](https://github.com/JJooni/Auto-Self-Diagnosis-for-server/blob/main/LICENSE.chromedriver).
