@@ -48,6 +48,6 @@ $ nohup python3 server.py
 사용에 대한 모든 책임은 사용자 본인에게 있습니다.<br>
 You are responsible for all responsibility for using it.
 
-## LISENSE
+## LICENSE
 This project is licensed under the terms of the [MIT license](https://github.com/JJooni/Auto-Self-Diagnosis-for-server/blob/main/LICENSE).<br>
 The binary files of ChromeDriver are licensed under the [BSD-3-Clause](https://github.com/JJooni/Auto-Self-Diagnosis-for-server/blob/main/LICENSE.chromedriver).
