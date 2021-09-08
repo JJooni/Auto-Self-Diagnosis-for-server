@@ -1,9 +1,11 @@
 # Auto-Self-Diagnosis-for-server
-이 프로그램은 [SaidBySolo님의 auto-self-diagnosis](https://github.com/SaidBySolo/auto-self-diagnosis)를 참고하여 제작하였습니다.<br>
-개인 사용 목적으로 제작하였기 때문에 추후 업데이트는 **진행하지 않습니다**.
+자동 자가진단 메크로 서버전용<br><br>
+개인 사용 목적으로 제작하였기 때문에 **추후 업데이트는 진행하지 않습니다**.
+
 ## 의존성
 Google-Chrome 91 이상<br>
-Python3
+Python3<br>
+Selenium 3.141.0
 
 ## 설치
 이 [링크](https://github.com/JJooni/Auto-Self-Diagnosis-for-server/archive/refs/heads/main.zip)를 통해서 설치를 진행할 수 있습니다.<br>
@@ -31,11 +33,14 @@ ex<br>
 ``` bash
 nohup python3 server.py
 ```
-위 명령어로 실행합니다.
 
 ## 기타
 필자는 ubuntu 18.04 환경에서 원활하게 동작하였습니다.
 
-## LISENSE
+## 경고 (Warning)
+사용에 대한 모든 책임은 사용자 본인에게 있습니다.<br>
+You are responsible for all responsibility for using it.
+
+## LICENSE
 This project is licensed under the terms of the [MIT license](https://github.com/JJooni/Auto-Self-Diagnosis-for-server/blob/main/LICENSE).<br>
 The binary files of ChromeDriver are licensed under the [BSD-3-Clause](https://github.com/JJooni/Auto-Self-Diagnosis-for-server/blob/main/LICENSE.chromedriver).
